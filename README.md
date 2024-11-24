@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kim Duck Billy!  
+# 👋 Hello, I'm Billy!  
 I’m an undergraduate student in the **Department of Electrical Engineering**, currently working in the **Antenna and Electromagnetic Wave Applications Lab**. My research focuses on **antenna design**, **electromagnetic wave applications**, and using **CST** and **MATLAB** for simulations and analysis.
 
 ## 🔭 Currently Working On:
