@@ -19,7 +19,7 @@ I’m an undergraduate student in the **Department of Electrical Engineering**, 
 - [**Arduino-based Air Quality Monitoring and Fan Control System**](https://github.com/your-arduino-project)  
   A simple model using Arduino to detect pollution levels and activate a fan to improve air quality.
 
-- [**Microstrip Patch Antenna Design**](https://github.com/your-cst-project)  
+- [**Microstrip Patch Antenna Design**](https://github.com/MPA)  
   Currently working on designing MPAs using CST, with a focus on achieving efficient performance through simulations (no photos yet as the design is still in progress).
 
 ## 📊 GitHub Stats:
