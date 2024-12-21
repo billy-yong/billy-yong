@@ -15,6 +15,7 @@ I’m an undergraduate student in the **Department of Electrical Engineering**, 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
+
 ## 📂 Featured Projects:
 - [**Arduino-based Air Quality Monitoring and Fan Control System**](https://github.com/your-arduino-project)  
   A simple model using Arduino to detect pollution levels and activate a fan to improve air quality.
