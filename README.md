@@ -6,7 +6,7 @@ I’m an undergraduate student in the **Department of Electrical Engineering**, 
   I’m in the process of designing efficient MPAs through simulations and analysis to improve antenna performance.
 - 🛠 **Learning Python and PyTorch**  
   I am currently learning Python and PyTorch in my coursework, focusing on data analysis and algorithm implementation.
-- 🌱 **MPA Design in Coursework**  
+- 🌱 **Array Antenna Design in Coursework**  
   As part of my coursework, I am learning to design MPAs using CST and improving my skills in antenna simulation and analysis.
 
 
@@ -24,6 +24,7 @@ I’m an undergraduate student in the **Department of Electrical Engineering**, 
   Currently working on designing MPAs using CST, with a focus on achieving efficient performance through simulations (no photos yet as the design is still in progress).
 
 - [**qpsk**]
+
 
 soon update total project in 2024
 
