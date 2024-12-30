@@ -47,6 +47,8 @@ Implemented and analyzed the **Bit Error Rate (BER)** of QPSK systems over **AWG
 - **Team Projects**  
   Successfully collaborated on projects in **data communication design** and **information system design**, contributing innovative ideas and solutions.  
 
+
+
 ---
 
 ## 🌱 **Learning Goals for 2025:**
