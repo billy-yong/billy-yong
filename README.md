@@ -67,6 +67,6 @@ Implemented and analyzed the **Bit Error Rate (BER)** of QPSK systems over **AWG
 ---
 
 ### 🎯 **Let's Connect!**  
-📫 Email: billy_yong@example.com  
+📫 Email:
 🌐 LinkedIn: [Billy Yong](https://linkedin.com/in/billy-yong)  
 💻 Portfolio: [Coming Soon!]
