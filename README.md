@@ -47,8 +47,6 @@ Implemented and analyzed the **Bit Error Rate (BER)** of QPSK systems over **AWG
 - **Team Projects**  
   Successfully collaborated on projects in **data communication design** and **information system design**, contributing innovative ideas and solutions.  
 
-
-
 ---
 
 ## 🌱 **Learning Goals for 2025:**
@@ -69,5 +67,5 @@ Implemented and analyzed the **Bit Error Rate (BER)** of QPSK systems over **AWG
 
 ### 🎯 **Let's Connect!**  
 📫 Email:
-🌐 LinkedIn: [Billy Yong](https://linkedin.com/in/billy-yong)  
+🌐 LinkedIn:
 💻 Portfolio: [Coming Soon!]
