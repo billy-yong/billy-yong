@@ -54,8 +54,7 @@ Implemented and analyzed the **Bit Error Rate (BER)** of QPSK systems over **AWG
 - **Antenna Research**: Expand my knowledge in **array antenna systems** and develop independent research projects.  
 - **Language Proficiency**: Achieve high scores in **TOEFL** and **OPIC AI** to improve my global communication skills.  
 - **Portfolio Expansion**: Finalize and showcase additional projects in **antenna design** and **communication systems**.
-- 
-
+- **
 ---
 
 ## 📊 **GitHub Stats:**
