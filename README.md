@@ -62,7 +62,6 @@ Exploring **high-frequency semiconductor applications**, **RFIC design**, and **
   Achieve **TOEFL 90+** and **OPIC AL** to enhance global communication skills.  
 - **Portfolio Expansion**  
   Develop and showcase additional projects in **RF technology, signal processing, and semiconductor applications**.  
-
 ---
 
 ## 📊 **GitHub Stats:**
